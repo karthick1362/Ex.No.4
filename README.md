@@ -1,49 +1,112 @@
-# Ex.No.4-EXP 4 Generate the Prompt and eveluate that for following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### Aim: To write the prompt for the following prompt types and ompare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics). 1.Comparative Analysis Prompt 2. Experiential Perspective Prompt 3. Everyday Functioning Prompts 4. Universal Prompt Structures Prompt Refinements 5. Prompt Size Limitations design an AI 
+# Ex.No.4-Generate the Prompt and eveluate that for following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
 
-### Explanation - Any one use case from Unit 5 and write the prompt for that with the unit 2 Prompt types given above.
 
-Procedure:
-1.	Define the Scenario and Use Case:
-Scenario:
-The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. The goal is to streamline the production process, minimize downtime, and enhance energy efficiency.
-Target Audience:
-Manufacturing companies, specifically in sectors like automotive, electronics, and food processing, where automation can significantly improve productivity.
+**Date:** 11/09/25  
+**Register Number:** 212223053002  
 
-Main Objectives:
+---
 
-•	Improve production efficiency by 30%.
-•	Minimize machinery downtime with predictive maintenance.
-•	Enable real-time monitoring and remote control of manufacturing systems.
-•	Reduce energy consumption by optimizing processes.
- 
-2.	Identify Prompt Patterns for Each Design Aspect:
-Idea Generation Prompts:
+### **Aim**
+To write prompts for the given prompt types and compare their responses using different AI tools.  
+The evaluation is done using a rubric-based method for clarity.
 
-Comparative Analysis Prompt
-Definition: Asking for a comparison between two or more concepts, often highlighting similarities and differences.
-•	"Compare and contrast deep learning and machine learning."
-•	"How do renewable and non-renewable energy sources differ?"
+---
 
-Experiential Perspective Prompt:
-> 	“As a software engineer, what are the benefits of using cloud computing in your projects?”
->  “From a student’s perspective, describe the challenges of online learning.”
+### **Explanation**
+**Use Case (from Unit 5):**  
+In the manufacturing industry, IoT devices and embedded controllers are used to automate equipment, monitor performance, and enable predictive maintenance.  
 
-Everyday Functioning Prompts:
-*	  “Describe the role of machine learning in everyday apps like YouTube or Netflix."
-*	 	“How is encryption used in daily life when sending WhatsApp messages?”
+**Objectives:**
+- Improve production efficiency by 30%.
+- Minimize machinery downtime with predictive maintenance.
+- Enable real-time monitoring and remote control.
+- Reduce energy consumption.
 
-Universal Prompt Structures:
-^ 	“Explain [concept] in simple terms with an example.”
-^  “Explain the process of [task] step by step.”
+**Target Audience:**  
+Manufacturing companies in automotive, electronics, and food processing sectors.
 
-Prompt Size Limitations:
-&  	“Translate this 5000-word essay into Tamil.”
-→ Manageable chunks: “Translate the first 1000 words into Tamil, then continue.”
-&  “Give me 50 examples of AI applications.”
-→ Adjust for size: “Give me 10 AI applications at a time.”
+---
+
+### **Prompts Designed**
+
+#### 1. Comparative Analysis Prompt
+**Prompt:**  
+“Compare IoT-based automation in manufacturing with traditional manual monitoring in terms of efficiency, cost, and downtime reduction.”
+
+#### 2. Experiential Perspective Prompt
+**Prompt:**  
+“As a plant manager, explain how predictive maintenance using IoT sensors has changed your daily workflow and decision-making.”
+
+#### 3. Everyday Functioning Prompt
+**Prompt:**  
+“Explain how IoT-based automation in manufacturing works in a simple way, similar to how a smart home device monitors and controls appliances.”
+
+#### 4. Universal Prompt Structures
+**Prompt:**  
+“Explain the process of predictive maintenance in IoT-enabled manufacturing step by step with a real-life example.”
+
+#### 5. Prompt Size Limitations
+
+**Large Task:**  
+“List 50 different IoT applications in the manufacturing industry.”  
+
+**Refined Version (Manageable Chunks):**  
+“List 10 IoT applications in the manufacturing industry at a time.”
+
+**Large Task:**  
+“Translate this 5000-word essay into Tamil.”  
+
+**Refined Version (Manageable Chunks):**  
+“Translate the first 1000 words into Tamil, then continue.”
+
+---
+
+### **Sample Essay (Short Version)**
+
+**Title:** Role of IoT in Modern Manufacturing  
+
+The Internet of Things (IoT) has transformed modern manufacturing by connecting machines, sensors, and people. It enables real-time monitoring of production lines, predictive maintenance of machinery, and efficient energy management. With IoT, companies can minimize downtime, reduce costs, and increase productivity.  
+
+For example, sensors attached to machines can alert managers about possible failures before they occur, saving time and resources. In the future, IoT will play a vital role in building smart factories where automation, artificial intelligence, and data analytics come together to optimize the entire production process.
+
+**Translated into Tamil:**  
+தைலீ: நவீன உற்பத்தியில் IoT-ன் பங்கு  
+இணைய பொருட்களின் அமைப்பு (IoT) நவீன உற்பத்தி முறையை மாற்றி அமைத்துள்ளது. இது இயந்திரங்கள், உணரிகள், மற்றும் மனிதர்களை இணைக்கிறது. உற்பத்தி செயல்களை நேரடியாக கண்காணிப்பதையும், இயந்திரங்களின் கணிப்பீட்டு பராமரிப்பையும், ஆற்றல் மேலாண்மையையும் எளிதாக்குகிறது.  
+
+IoT பயன்படுத்தும் நிறுவனங்கள் செயல்திறனை மேம்படுத்தி, செலவுகளை குறைத்து, நிறுத்த நேரத்தை குறைக்க முடியும். எதிர்காலத்தில், செயற்கை நுண்ணறிவு மற்றும் தரவுப் பகுப்பாய்வுடன் இணைந்து, IoT சாமார்த்தியமான தொழிற்சாலைகளைக் கட்டமைப்பதில் முக்கிய பங்கு வகிக்கும்.
+
+---
+
+### **Evaluation Using Two AI Tools**
+| Prompt Type | Tool A (ChatGPT) – Output Quality | Tool B (Gemini) – Output Quality | Evaluation (Rubrics) |
+|--------------|----------------------------------|----------------------------------|-----------------------|
+| Comparative Analysis | Clear comparison, structured points | Comparison with examples but less structured | ChatGPT scored higher on clarity |
+| Experiential Perspective | Well-written, role-based narrative | Short, more technical, less experiential | ChatGPT closer to perspective requirement |
+| Everyday Functioning | Explained with smart home analogy | Gave technical terms without analogy | ChatGPT better alignment |
+| Universal Prompt Structures | Step-by-step breakdown with example | Good explanation but skipped example | ChatGPT better structure |
+| Prompt Size Limitations | Broke into sets of 10, smooth flow | Provided full list but cutoff | ChatGPT handled limitations better |
+
+---
+
+### **Rubrics Used (Score 1–5)**
+- Clarity  
+- Relevance  
+- Creativity  
+- Structure  
+
+| Prompt Type | ChatGPT Score | Gemini Score |
+|--------------|---------------|---------------|
+| Comparative Analysis | 5 | 4 |
+| Experiential Perspective | 5 | 3 |
+| Everyday Functioning | 5 | 3 |
+| Universal Prompt Structures | 5 | 4 |
+| Prompt Size Limitations | 5 | 3 |
+
+---
+
+### **Result**
+The various types of prompts were designed and executed successfully.  
+On evaluation using a rubric-based method, **ChatGPT consistently produced more structured, relevant, and user-friendly responses** compared to Tool B (Gemini).
 
 
 
